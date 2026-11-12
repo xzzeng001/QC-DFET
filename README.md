@@ -1,0 +1,1 @@
+This repository contains all raw data underlying the results reported in our paper, Embedded quantum computing for many-body surface reaction(https://arxiv.org/abs/2607.27009). The data are provided to support independent verification of the reported findings and facilitate further analysis.
