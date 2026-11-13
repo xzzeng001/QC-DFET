@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-13",
+  "archive_crc": "both passed",
+  "source_file_entries": 77,
+  "unique_original_files": 76,
+  "main_archive_checks": {
+    "xyz": 12,
+    "contcar": 12,
+    "embedding_matrices": 12,
+    "json": 9,
+    "npz": 1,
+    "images": 6,
+    "workbooks": 5,
+    "formula_caches_independently_checked": 160
+  },
+  "legacy_archive_formula_caches_checked": 92,
+  "plot_environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "openpyxl": "3.1.5",
+    "pillow": "13.0.0",
+    "matplotlib": "3.11.2"
+  },
+  "plots": [
+    {
+      "figure": "Fig2",
+      "exit_code": 0,
+      "output_files": [
+        "output/main_figure_h2_cu_promolecular_density_inset.png",
+        "output/main_figure_h2_cu_soft_embdft_embqc_balanced_fonts_bold_states.png",
+        "output/main_figure_h2_cu_soft_clean_inset_embdft_embqc_balanced_fonts_bold_states.png",
+        "output/main_figure_h2_cu.png"
+      ],
+      "warnings_errors": []
+    },
+    {
+      "figure": "Fig3",
+      "exit_code": 0,
+      "output_files": [
+        "output/Fig3_qc_errors_with_nevpt2_reduction.png",
+        "output/Fig3_qc_errors.png",
+        "output/Fig3_qpu_qsci_step5_step10_errors.png",
+        "output/Fig3_nevpt2_error_reduction.png"
+      ],
+      "warnings_errors": []
+    },
+    {
+      "figure": "Fig4",
+      "exit_code": 0,
+      "output_files": [
+        "output/co_adsorption_energy_charge_main.png",
+        "output/co_adsorption_energy_charge_main_embdft_embqc_soft.png"
+      ],
+      "warnings_errors": []
+    },
+    {
+      "figure": "Fig5",
+      "exit_code": 0,
+      "output_files": [
+        "output/co_mayer_bonding_mechanism_v22_darker_panelC_arrows_p_allcu.png"
+      ],
+      "warnings_errors": []
+    },
+    {
+      "figure": "Fig6",
+      "exit_code": 0,
+      "output_files": [
+        "output/co_cu100_cas22e20o_four_panels_p_allcu.png",
+        "output/co_cu100_cas22e20o_selected_values_p_allcu.csv"
+      ],
+      "warnings_errors": []
+    }
+  ],
+  "source_inputs_changed": [],
+  "scope": "Integrity, parsing, arithmetic caches and plotting only; no underlying electronic-structure or quantum computations rerun. Known scientific issues documented in DATA_QUALITY.md."
+}

@@ -1,0 +1,4 @@
+display_state,source_state,step,qc_error_eV,nevpt2_error_eV,fci_overlap,rule
+IS,FS,221,0.230681836887863,0.04303,0.9889575893,earliest step with |NEVPT2 error| <= chemical accuracy
+TS,TS,363,0.08156212100324212,0.041663,0.9974034785,earliest step with |NEVPT2 error| <= chemical accuracy
+FS,IS,106,0.2880881548895458,0.041488,0.9883135105,earliest step with |NEVPT2 error| <= chemical accuracy

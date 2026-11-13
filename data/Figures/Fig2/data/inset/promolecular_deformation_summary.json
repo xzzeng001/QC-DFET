@@ -1,0 +1,109 @@
+{
+  "plotting": {
+    "common_vmax_e_bohr-3": 0.08396207084626835,
+    "symlog_linear_threshold_e_bohr-3": 0.0012594310626940252
+  },
+  "projected_atoms": [
+    {
+      "index_0based": 0,
+      "symbol": "H",
+      "x_angstrom": -0.45316371083644336,
+      "out_of_plane_angstrom": -1.419414941888409e-16,
+      "z_angstrom": -9.484729772698536e-16
+    },
+    {
+      "index_0based": 1,
+      "symbol": "H",
+      "x_angstrom": 0.4531637108364431,
+      "out_of_plane_angstrom": -1.340160519243204e-16,
+      "z_angstrom": -9.463754166274804e-16
+    },
+    {
+      "index_0based": 2,
+      "symbol": "Cu",
+      "x_angstrom": -2.1822440765769886,
+      "out_of_plane_angstrom": -2.522215088077217,
+      "z_angstrom": -1.4484116061804957
+    },
+    {
+      "index_0based": 3,
+      "symbol": "Cu",
+      "x_angstrom": 1.4679244151318507,
+      "out_of_plane_angstrom": -1.1720792784356744,
+      "z_angstrom": -3.444429403290489
+    },
+    {
+      "index_0based": 4,
+      "symbol": "Cu",
+      "x_angstrom": 0.000631335036577011,
+      "out_of_plane_angstrom": 1.2593114272273742,
+      "z_angstrom": -1.278172753822201
+    },
+    {
+      "index_0based": 5,
+      "symbol": "Cu",
+      "x_angstrom": -0.7168733686739898,
+      "out_of_plane_angstrom": 0.08707288430206064,
+      "z_angstrom": -3.4017607313283933
+    },
+    {
+      "index_0based": 6,
+      "symbol": "Cu",
+      "x_angstrom": 2.184862803879455,
+      "out_of_plane_angstrom": 0.0008096927016619874,
+      "z_angstrom": -1.3210327328421345
+    },
+    {
+      "index_0based": 7,
+      "symbol": "Cu",
+      "x_angstrom": 1.4667799900115788,
+      "out_of_plane_angstrom": 1.3480322432240648,
+      "z_angstrom": -3.3383860765176587
+    },
+    {
+      "index_0based": 8,
+      "symbol": "Cu",
+      "x_angstrom": 0.001335516334139115,
+      "out_of_plane_angstrom": -1.2601211199290359,
+      "z_angstrom": -1.3846666932063059
+    },
+    {
+      "index_0based": 9,
+      "symbol": "Cu",
+      "x_angstrom": -2.1847960850280126,
+      "out_of_plane_angstrom": 2.5186621915795624,
+      "z_angstrom": -1.23592493317122
+    },
+    {
+      "index_0based": 10,
+      "symbol": "Cu",
+      "x_angstrom": 3.65162495921428,
+      "out_of_plane_angstrom": 0.08839045674994389,
+      "z_angstrom": -3.37982293181743
+    },
+    {
+      "index_0based": 11,
+      "symbol": "Cu",
+      "x_angstrom": 2.1860647641311712,
+      "out_of_plane_angstrom": -2.51903471824124,
+      "z_angstrom": -1.4272684306559065
+    },
+    {
+      "index_0based": 12,
+      "symbol": "Cu",
+      "x_angstrom": 2.1843692330637583,
+      "out_of_plane_angstrom": 2.520540943628112,
+      "z_angstrom": -1.2151223363122092
+    },
+    {
+      "index_0based": 13,
+      "symbol": "Cu",
+      "x_angstrom": -2.183544745042431,
+      "out_of_plane_angstrom": -0.001818020366824102,
+      "z_angstrom": -1.342233280876419
+    }
+  ],
+  "command_line_options": {
+    "atom_plane_cutoff": null
+  }
+}

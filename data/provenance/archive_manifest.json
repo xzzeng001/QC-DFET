@@ -1,0 +1,563 @@
+{
+  "organized_on": "2026-11-13",
+  "policy": "Scientific payloads preserved byte-for-byte. One identical CO24 workbook deduplicated; two distinct legacy versions retained. Original top-level package README retained in provenance/.",
+  "archives": [
+    {
+      "archive": "datas availiablity.zip",
+      "archive_bytes": 26432,
+      "archive_sha256": "16801e44b876513d855beffe52e3bb10fa6b35cf11f6637c76fbfecace67a3d2",
+      "crc_check": "passed"
+    },
+    {
+      "archive": "QC-DFET-Data.zip",
+      "archive_bytes": 48784610,
+      "archive_sha256": "d2cc289757545934e83bf398747603515c1ee01834757ace43558f1e7dc95fd4",
+      "crc_check": "passed"
+    }
+  ],
+  "files": [
+    {
+      "archive_path": "datas availiablity/CO_Cu111_24Q.xlsx",
+      "bytes": 11609,
+      "sha256": "1ef2e6f7da81c868b5043be047c33bb1d85573f4989558b44ca1003039a3c704",
+      "source_archive": "datas availiablity.zip",
+      "published_path": "Energies/CO_Cu111_24q.xlsx"
+    },
+    {
+      "archive_path": "datas availiablity/CO_Cu111_40Q.xlsx",
+      "bytes": 10253,
+      "sha256": "70b453c3bc8c019011e299633283a48cacf5cb59e66aa411be7622a863ca9ed0",
+      "source_archive": "datas availiablity.zip",
+      "published_path": "legacy/CO_Cu111_40Q.xlsx"
+    },
+    {
+      "archive_path": "datas availiablity/H2_Cu111_24Q.xlsx",
+      "bytes": 11930,
+      "sha256": "89bc90a953a1149a0b177058f93d7cde5d11ab77b1b2c2deecf3b51cb324aa8f",
+      "source_archive": "datas availiablity.zip",
+      "published_path": "legacy/H2_Cu111_24Q.xlsx"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Energies/CO_Cu111_24q.xlsx",
+      "bytes": 11609,
+      "sha256": "1ef2e6f7da81c868b5043be047c33bb1d85573f4989558b44ca1003039a3c704",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Energies/CO_Cu111_24q.xlsx"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Energies/CO_Cu111_40Q.xlsx",
+      "bytes": 11625,
+      "sha256": "af32270343422cd901d4ab7f5a2e8ebd3c6c722146d2f4764792701f6f59b4db",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Energies/CO_Cu111_40Q.xlsx"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Energies/H2_Cu111_24q.xlsx",
+      "bytes": 11297,
+      "sha256": "3f71b64199d79189eefd0497817023149609eeafc62578a667f5eca196d557e5",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Energies/H2_Cu111_24q.xlsx"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig1/output/Fig1.jpeg",
+      "bytes": 325718,
+      "sha256": "7a2848b03233cca6be858e233bd20485ed2c656d8a5390886a23c1308db83f7f",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig1/output/Fig1.jpeg"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig2/data/FS/FS_analysis.json",
+      "bytes": 40552,
+      "sha256": "33111693c27bba1bbfb16613f0cbb95a27712c693636a45ca46aaa2d2bdf9dfa",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig2/data/FS/FS_analysis.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig2/data/inset/promolecular_deformation_plane.npz",
+      "bytes": 11660795,
+      "sha256": "3fd7396be676eef3143aee922417c1f72712f8cfb31fc98f2672726201809bd9",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig2/data/inset/promolecular_deformation_plane.npz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig2/data/inset/promolecular_deformation_summary.json",
+      "bytes": 2922,
+      "sha256": "80ab8f36738438d6e7462cd638e4c31bc1a297b13ac61bb099576931a3696370",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig2/data/inset/promolecular_deformation_summary.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig2/data/IS/IS_analysis.json",
+      "bytes": 40581,
+      "sha256": "8f074e84b71aead53d22f32dfb8c4c0d8b3795a18b32492276ebf058d8384ed5",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig2/data/IS/IS_analysis.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig2/data/TS/TS_analysis.json",
+      "bytes": 40505,
+      "sha256": "1c16f77f4f427d585b15d7c9c62b96d3cc21c9489bb8eeb4c32c7cb3b92933a7",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig2/data/TS/TS_analysis.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig2/output/main_figure_h2_cu_promolecular_density_inset.png",
+      "bytes": 1419095,
+      "sha256": "2c9899d0f9f5e3f64bc400f8a5fd4797966d8bc6c810208a1a3b1ca08f28857d",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig2/output/main_figure_h2_cu_promolecular_density_inset.png"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig2/README.md",
+      "bytes": 350,
+      "sha256": "bfd6732b7d1594cf9651de84cad7a139a87b09e4e187685e7533d2a46e1ba029",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig2/README.md"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig2/src/plot.py",
+      "bytes": 79177,
+      "sha256": "913e51b0b9ee61377e36ab2b9e6fb78cc7b4983d5646823d5f69935db16407e9",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig2/src/plot.py"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig3/data/nevpt2_scan.csv",
+      "bytes": 30075,
+      "sha256": "8fee8e0dae5114b52c3e8bd3a980d7ce21a0a29d4fade1492ae277364c8e2743",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig3/data/nevpt2_scan.csv"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig3/data/nevpt2_selected.csv",
+      "bytes": 398,
+      "sha256": "c14b64d1b9bdbfc8c8d2d2bc91142c0f5d23fdc59e8c0bfcda45ab6d475d33e2",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig3/data/nevpt2_selected.csv"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig3/data/QC_results_fr_adapt_vqe.xlsx",
+      "bytes": 11333,
+      "sha256": "c7bd818d1da9820a146ae6917b218d787778a7125848990d61972d060a2ef54f",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig3/data/QC_results_fr_adapt_vqe.xlsx"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig3/output/Fig3_qc_errors_with_nevpt2_reduction.png",
+      "bytes": 220057,
+      "sha256": "065de5bcb47ba27a8528b4d83e1325b8d2f96cf20d51bfbddcef23a4179398ca",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig3/output/Fig3_qc_errors_with_nevpt2_reduction.png"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig3/README.md",
+      "bytes": 616,
+      "sha256": "34795ba43fdd54c14f41b734b9d38e548cf68e6168adde90491a9f71023db275",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig3/README.md"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig3/src/plot.py",
+      "bytes": 45711,
+      "sha256": "c2f6d699f73445a4ff8152beda0ceb79fc05e288b39b6b5719b49f4b786643a5",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig3/src/plot.py"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig4/data/abv/abv_analysis.json",
+      "bytes": 48283,
+      "sha256": "3502284b2df6f0a3c3b9b892c28bc832a0ad241fef7ba2274b00b84397540701",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig4/data/abv/abv_analysis.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig4/data/bridge/bridge_analysis.json",
+      "bytes": 48252,
+      "sha256": "c1f87f79aa186eea77c2cd95bc846a5c3ab97bd082f87d1fe37d01f3bac7f93c",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig4/data/bridge/bridge_analysis.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig4/data/fcc/fcc_analysis.json",
+      "bytes": 48184,
+      "sha256": "cbe8f54444311e3cf01e34d3f4492af317819deb7c7a20fbfb2d21b52c6a9ac6",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig4/data/fcc/fcc_analysis.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig4/data/hcp/hcp_analysis.json",
+      "bytes": 48174,
+      "sha256": "4c81813b0550848d3a880dab866afba6f77d5755eb0d275548937e1d7454dd65",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig4/data/hcp/hcp_analysis.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig4/data/top/top_analysis.json",
+      "bytes": 48231,
+      "sha256": "c156b4492e15100e41ca594a1c064f61191081fa7785f89b90742c5f81ea0813",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig4/data/top/top_analysis.json"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig4/output/co_adsorption_energy_charge_main.png",
+      "bytes": 157759,
+      "sha256": "95a55269f1b1c8a17b1070e14babc151a83287af940bbe3345bf290b1ad2a227",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig4/output/co_adsorption_energy_charge_main.png"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig4/README.md",
+      "bytes": 257,
+      "sha256": "3ae4030dafb9c011e9ff2d910cc57e970804248c3dac39ba1a3a4f08397d72f5",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "provenance/Fig4.README.original.md"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig4/src/plot.py",
+      "bytes": 61680,
+      "sha256": "847ee1397167c52e1470bb5b44b9926f776ef44ab7731cb545fe6a8b79bb62c7",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig4/src/plot.py"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig5/data/frontier_fig3d_mayer_bond_order_summary.csv",
+      "bytes": 6964,
+      "sha256": "ae7ff7199efa399cb9081b463970fb039ef4c6a9e2bf8fdb9684679f2bc8d0b1",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig5/data/frontier_fig3d_mayer_bond_order_summary.csv"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig5/output/co_mayer_bonding_mechanism_v22_darker_panelC_arrows_p_allcu.png",
+      "bytes": 354914,
+      "sha256": "aaaecd62f718944229e94bc3fd0804bd9cedd977ebe59220b5090bbce56524dc",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig5/output/co_mayer_bonding_mechanism_v22_darker_panelC_arrows_p_allcu.png"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig5/README.md",
+      "bytes": 251,
+      "sha256": "630cd667fdd80b30937cbfa97607abdd11f0c5ec215e5e83efefe1a906500a21",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig5/README.md"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig5/src/plot.py",
+      "bytes": 42398,
+      "sha256": "29a89af6b677678b0e7c2a9ad2c28c01262c0990a2c929b1fbc665404fefc118",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig5/src/plot.py"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig6/data/frontier_fig3d_mayer_bond_order_summary.csv",
+      "bytes": 6788,
+      "sha256": "684970b749601fd127aa43580605f2fd0299f3baaab46bbbbd45a7c60611619e",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig6/data/frontier_fig3d_mayer_bond_order_summary.csv"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig6/data/QSCI40_CO100_FOUR_SITES_1M_ENSC_QCDFET_554_FINAL_20261102.xlsx",
+      "bytes": 10753,
+      "sha256": "5f49bc3eb410cd9fe0430be306918a5f77f2d94a3a635be58ee6eb7669dd3e28",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig6/data/QSCI40_CO100_FOUR_SITES_1M_ENSC_QCDFET_554_FINAL_20261102.xlsx"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig6/output/co_cu100_cas22e20o_four_panels_p_allcu.png",
+      "bytes": 282138,
+      "sha256": "49b77c5dd25395c2b85b176196095316c1191e8c523927e24fbb11d9f467b360",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig6/output/co_cu100_cas22e20o_four_panels_p_allcu.png"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig6/README.md",
+      "bytes": 393,
+      "sha256": "94b0287e2373939cc0a9358851cae4ecce285fa31c420d34844f4d21a4b482ca",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig6/README.md"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/Fig6/src/plot.py",
+      "bytes": 29582,
+      "sha256": "53c151b5e5bc1a3f930d9c0c030123cfdd3951fde8e19efcc0d057f4ef7a7c9e",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/Fig6/src/plot.py"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/README.md",
+      "bytes": 146,
+      "sha256": "a067b1acb05251cd309a0b64b00a70e755b3857650f31ca770a68fcdac28209a",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/README.md"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Figures/requirements.txt",
+      "bytes": 78,
+      "sha256": "66f573c0ed3794ad51256e95f0d17a687cf6a28dc5f89c71721ab5a9349b8626",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Figures/requirements.txt"
+    },
+    {
+      "archive_path": "QC-DFET-Data/README.md",
+      "bytes": 243,
+      "sha256": "e0f2a183fba229948e17c1e646b2fc6648aff4ccb0ed447f4cdc7b3ee7011ab1",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "provenance/README.original.md"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/cluster/abv/coords_CO_Cu100_abv.xyz",
+      "bytes": 1008,
+      "sha256": "63b85ccd7f8c2f11c3dc7097371e73e86df966e944b665fbc352f31802e8331e",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/cluster/abv/coords_CO_Cu100_abv.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/cluster/abv/emb_ints.pyscf",
+      "bytes": 7255390,
+      "sha256": "6708a26a99d2dea2f1def64c64534d1926b3c56e08f0ea40cebdfd520e80b093",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/cluster/abv/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/cluster/bridge/coords_CO_Cu100_bridge.xyz",
+      "bytes": 1008,
+      "sha256": "88ae78c974bbcb2366595a04620dff3c3d6e3823e71fe7506db94cb6c186c6e9",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/cluster/bridge/coords_CO_Cu100_bridge.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/cluster/bridge/emb_ints.pyscf",
+      "bytes": 7519985,
+      "sha256": "d8e8fa758bed16f7d538871b56405413ffd52c7ffa2468e99f3f733d3a38d261",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/cluster/bridge/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/cluster/hollow/coords_CO_Cu100_hollow.xyz",
+      "bytes": 1008,
+      "sha256": "b06f9058cc2791eacb2260c76c58d3c4ecbafa753d22188469c4a44d868f9238",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/cluster/hollow/coords_CO_Cu100_hollow.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/cluster/hollow/emb_ints.pyscf",
+      "bytes": 7518715,
+      "sha256": "d8b23a6834d2c981141ac372a29415c29014adb0df23e3824107bc4e5a7eb21a",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/cluster/hollow/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/cluster/top/coords_CO_Cu100_top.xyz",
+      "bytes": 1008,
+      "sha256": "d59cded33353f2c241bb6e2acae3fa881850ca453f0c1e6a2b896259e2841300",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/cluster/top/coords_CO_Cu100_top.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/cluster/top/emb_ints.pyscf",
+      "bytes": 7500644,
+      "sha256": "e014767245e1832d153518498318ae00e3a8fd1a86a05429b6a009944678d8f1",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/cluster/top/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/periodic/abv/CONTCAR",
+      "bytes": 12810,
+      "sha256": "0d750390dfad8e95ae517faa89b359aa640efa6d49076f37aac28841264a6f57",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/periodic/abv/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/periodic/bridge/CONTCAR",
+      "bytes": 12810,
+      "sha256": "0c7daab16072fdb30182d7283ededf19c8bb84963836f3bc74a593fc11495e3f",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/periodic/bridge/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/periodic/hollow/CONTCAR",
+      "bytes": 12810,
+      "sha256": "a74313ceb2cd91fdb74859dcbbfd667ff180a9145f6a8335239ddacd802078ac",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/periodic/hollow/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu100/periodic/top/CONTCAR",
+      "bytes": 12810,
+      "sha256": "cd8fddddf327d2a0716509ef00c98358226eaf777966c760425977ef739fa41e",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu100/periodic/top/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/abv/coords_CO_Cu111_abv.xyz",
+      "bytes": 996,
+      "sha256": "65dcc806a66998e56efa56f601ce2b0cd66b8125f0dc2c8bac8983402901fbdc",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/abv/coords_CO_Cu111_abv.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/abv/emb_ints.pyscf",
+      "bytes": 7258750,
+      "sha256": "20f443085da6f97a08f6252042d6fdea1933666fb1f80bf0d5ac5c259fa74b65",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/abv/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/bridge/coords_CO_Cu111_bridge.xyz",
+      "bytes": 996,
+      "sha256": "9d9284a082b85fcd5c92b35ea55ab87f58ed5c65bf83aa57d5ceb752e0d26df2",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/bridge/coords_CO_Cu111_bridge.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/bridge/emb_ints.pyscf",
+      "bytes": 7495358,
+      "sha256": "71c0a9528a71b08c27d9adabd96377325905c3a31509489009a3a74c51f7fddc",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/bridge/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/fcc/coords_CO_Cu111_fcc.xyz",
+      "bytes": 996,
+      "sha256": "8cb4c9d0b473e97e4ae9d688e5b48accc58050942397f8773c6541879c61c6b4",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/fcc/coords_CO_Cu111_fcc.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/fcc/emb_ints.pyscf",
+      "bytes": 7508223,
+      "sha256": "3287a09960737c9f7130052bf9ef636268b42156667d6a6ba77282e61131bdfe",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/fcc/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/hcp/coords_CO_Cu111_hcp.xyz",
+      "bytes": 996,
+      "sha256": "c27cf9308667dc3e1bcbe2979ba1ee5c873b91044b559c4e81e02c9b89ed7265",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/hcp/coords_CO_Cu111_hcp.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/hcp/emb_ints.pyscf",
+      "bytes": 7499367,
+      "sha256": "831d9dd873e64460076dacc41454b4b3d3614f530172cb764c570bf489630ad1",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/hcp/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/top/coords_CO_Cu111_top.xyz",
+      "bytes": 996,
+      "sha256": "04f6edfbd0130cbc70d03233807bf9f1920d3b3792dc448078e2e65d9e1929a3",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/top/coords_CO_Cu111_top.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/cluster/top/emb_ints.pyscf",
+      "bytes": 7491553,
+      "sha256": "3be14fe351377a5dd5ffb59608e9986013ea20528efff6ef44d196461b44967a",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/cluster/top/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/periodic/abv/CONTCAR",
+      "bytes": 10858,
+      "sha256": "c39a1fa6c82b654f779ed927826899e7da43a13f6d9c711ee5c717ecd461d4ac",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/periodic/abv/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/periodic/bridge/CONTCAR",
+      "bytes": 10858,
+      "sha256": "0271988050211fab92e513c48c0fe02a0f038cc25df7371e4db2a1215357f6b6",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/periodic/bridge/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/periodic/fcc/CONTCAR",
+      "bytes": 10858,
+      "sha256": "f8dfc7919454780807e4e5da5c39249079c2bf02ef62fd7a3adf4c4d96eb15b0",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/periodic/fcc/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/periodic/hcp/CONTCAR",
+      "bytes": 10858,
+      "sha256": "985fe262ddc7aff7e485706aa2178b710dc64d2364bb2976c19b4ef784fa12f0",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/periodic/hcp/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/CO_Cu111/periodic/top/CONTCAR",
+      "bytes": 10858,
+      "sha256": "a897d44663ad722bddbe6fa6031ef18fa7e3d5dc71f46295d233a8d95f58cce1",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/CO_Cu111/periodic/top/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/cluster/FS/coords_FS.xyz",
+      "bytes": 607,
+      "sha256": "3690630d3645ed508b939c20263cf8e7831e7fd1574c0edfe8834b110793fad7",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/cluster/FS/coords_FS.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/cluster/FS/emb_ints.pyscf",
+      "bytes": 5116538,
+      "sha256": "119f4fea34873b10cb70231840e0ab0e20e135a8bce53a706ab53d1f35aae37b",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/cluster/FS/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/cluster/IS/coords_IS.xyz",
+      "bytes": 607,
+      "sha256": "56043c28d4a78a2e02a11e821c716afad3f2daf2ced312cfd3092cac8a7dbba7",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/cluster/IS/coords_IS.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/cluster/IS/emb_ints.pyscf",
+      "bytes": 5131125,
+      "sha256": "88631ca1f0fef26eff2caa4d432cd19e183c6bbd0b056e624254b95ffaab1b46",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/cluster/IS/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/cluster/TS/coords_TS.xyz",
+      "bytes": 607,
+      "sha256": "5badb7f0517ad2dbdd74dd9be3482dd546e2e05ccfbe9208c3de658501d73e4e",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/cluster/TS/coords_TS.xyz"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/cluster/TS/emb_ints.pyscf",
+      "bytes": 5129251,
+      "sha256": "3a3cfb093779b27c6ee58ba76aedf522cfe1bbadafee4e2e95b1b93470a74c33",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/cluster/TS/emb_ints.pyscf"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/periodic/FS/CONTCAR",
+      "bytes": 10836,
+      "sha256": "2599879085ea5ebc00a2f569a6667ea404da8861a803f56f1b2f41bb1e63ab4f",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/periodic/FS/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/periodic/IS/CONTCAR",
+      "bytes": 10836,
+      "sha256": "bf424f4420c9400ad546c2a31148a8a6458f918134acddf504e94eb4338d368a",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/periodic/IS/CONTCAR"
+    },
+    {
+      "archive_path": "QC-DFET-Data/Structures/H2_Cu111/periodic/TS/CONTCAR",
+      "bytes": 10836,
+      "sha256": "c06b7ae55d7631cf8201216055788d02c8ec9e55e5cc10b7816c94b5cb891418",
+      "source_archive": "QC-DFET-Data.zip",
+      "published_path": "Structures/H2_Cu111/periodic/TS/CONTCAR"
+    }
+  ],
+  "documentation_changes": [
+    "Added root/data READMEs, DATA_QUALITY.md, checksum manifest and verifier.",
+    "Retained original package and Fig4 READMEs in provenance/; corrected the Fig4 summary-CSV claim in its active README."
+  ]
+}
